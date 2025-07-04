@@ -29,4 +29,4 @@ plt.ylabel('y')
 plt.title('Linear Regression on Noisy Data')
 plt.legend()
 #plt.show() # show() will not work on the cluster, since there is no GUI
-plt.savefig('./dsworkflow/src/Lecture_1/linear_reg_plot.png')
+plt.savefig('linear_reg_plot.png')
