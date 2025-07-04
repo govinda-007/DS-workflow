@@ -1,0 +1,7 @@
+beautifulsoup4
+scikit-learn
+pandas
+lxml[html_clean]
+requests
+newspaper3k
+gdown
